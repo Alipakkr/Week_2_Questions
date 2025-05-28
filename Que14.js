@@ -17,5 +17,10 @@ const userProfile = {
   }
 };
 
+
 userProfile.updateAge(30);  
+
+
 console.log(userProfile.details()); 
+
+
