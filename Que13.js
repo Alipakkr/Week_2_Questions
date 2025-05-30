@@ -19,4 +19,4 @@ checkout.addItem({ name: "Coffee Maker", price: "99.95" });
 checkout.addItem({ name: "Milk", price: 3.50 });
 checkout.addItem({ name: "Invalid", price: "abc" });
 
-console.log(checkout.getTotal()); // Total: $103.45
+console.log(checkout.getTotal()); // Totalprice of all items : $103.45

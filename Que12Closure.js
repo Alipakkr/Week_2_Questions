@@ -10,6 +10,6 @@ function createCounter() {
   };
 }
 const counter = createCounter();
-console.log(counter.increment()); // 1
-console.log(counter.increment()); // 2
-console.log(counter.getCount());  // 2
+console.log(counter.increment()); //output is 1
+console.log(counter.increment()); //output is 2
+console.log(counter.getCount());  //output is 2
